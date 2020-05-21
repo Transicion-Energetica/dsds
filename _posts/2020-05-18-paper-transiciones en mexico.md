@@ -2,7 +2,7 @@
 layout: post
 title:  "Energy transition in Mexico: The social dimmension of energy and the politics of climate change"
 author: climatetransparency
-categories: [ opinion ]
+categories: [ articulo ]
 featured: false
 image: assets/images/eolica.jpg
 ---

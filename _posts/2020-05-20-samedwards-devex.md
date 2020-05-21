@@ -4,7 +4,7 @@ title:  "The development crisis behind Mexico's green revolution"
 author: samedwards
 categories: [ opinion ]
 featured: false
-image: assets/images/eolica.jpg
+image: assets/images/pollution.jpg
 ---
 
 Long known for its oil fields, Mexico has, in a little over a decade, become a regional leader in climate policy — at least nominally.
