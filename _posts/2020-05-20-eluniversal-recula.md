@@ -4,7 +4,7 @@ title:  "Recula Cenace por amparos; permite reanudar pruebas a generadores de en
 author: eluniversal
 categories: [ opinion ]
 featured: false
-image: assets/images/eolica2.jpg
+image: assets/images/eolica3.jpg
 ---
 A través de amparos promovidos hicieron que el centro diera marcha atrás en las suspensiones provisionales que impedían que este tipo de centrales realizarán las pruebas preoperativas que tenían programas para recibir la licencia que les permitirá conectarse a la red eléctrica nacional.
 
