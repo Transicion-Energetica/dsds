@@ -55,7 +55,7 @@ plugins:
   - jekyll-seo-tag
   - jekyll-archives
         
- Archives
+# Archives
 jekyll-archives:
   enabled:
     - categories
